@@ -110,7 +110,7 @@ body {
 }
 
 .weather {
-  /* display: none; */
+  display: none;
 }
 
 .error {
